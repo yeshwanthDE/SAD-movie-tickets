@@ -1,0 +1,26 @@
+{
+  "name": "SAD-movie-tickets",
+  "version": "1.0.0",
+  "description": "Online movie booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeshwanthDE/SAD-movie-tickets.git"
+  },
+  "author": "Yeswanth",
+  "license": "",
+  "homepage": "https://github.com/yeshwanthDE/SAD-movie-tickets#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+	"cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+	"mongoose": "^5.5.4",
+	"nodemon": "^1.18.11",
+	"passport": "^0.4.0",
+    "serve-favicon": "^2.4.0"
+  }
+}
